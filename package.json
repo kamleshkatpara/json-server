@@ -1,0 +1,14 @@
+{
+  "name": "json-server",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "server-json": "json-server --watch db.json --port 3000 --routes routes.json"
+  },
+  "keywords": [],
+  "author": "Kamlesh Katpara",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.4"
+  }
+}

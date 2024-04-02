@@ -1,0 +1,186 @@
+{
+    "categories": [
+        {
+            "id": 1,
+            "name": "Electronics"
+        },
+        {
+            "id": 2,
+            "name": "Clothing"
+        },
+        {
+            "id": 3,
+            "name": "Home & Kitchen"
+        }
+    ],
+    "products": [
+        {
+            "id": 101,
+            "name": "Smartphone",
+            "categoryId": 1,
+            "price": 500,
+            "description": "A powerful smartphone with advanced features.",
+            "image": "https://cdn.moglix.com/p/C31GW101Yow1O.jpg"
+        },
+        {
+            "id": 102,
+            "name": "Laptop",
+            "categoryId": 1,
+            "price": 900,
+            "description": "A high-performance laptop for work and entertainment.",
+            "image": "https://in-media.apjonlinecdn.com/catalog/product/cache/b3b166914d87ce343d4dc5ec5117b502/c/0/c08192495_1_9.png"
+        },
+        {
+            "id": 103,
+            "name": "Tablet",
+            "categoryId": 1,
+            "price": 300,
+            "description": "A sleek and portable tablet for on-the-go productivity.",
+            "image": "https://p3-ofp.static.pub/fes/cms/2023/02/22/5rhddw9d8vm9xfkexcwzvvi9lindg8985574.png"
+        },
+        {
+            "id": 104,
+            "name": "Smart Watch",
+            "categoryId": 1,
+            "price": 250,
+            "description": "Stay connected and track your fitness with this smart watch.",
+            "image": "https://www.fastrack.in/dw/image/v2/BKDD_PRD/on/demandware.static/-/Sites-titan-master-catalog/default/dwcf9305b4/images/Titan/Catalog/90188AP03_1.jpg?sw=800&sh=800"
+        },
+        {
+            "id": 105,
+            "name": "Headphones",
+            "categoryId": 1,
+            "price": 100,
+            "description": "Immerse yourself in music with these high-quality headphones.",
+            "image": "https://m.media-amazon.com/images/I/41tp0JPPlmL._AC_UF1000,1000_QL80_.jpg"
+        },
+        {
+            "id": 201,
+            "name": "T-Shirt",
+            "categoryId": 2,
+            "price": 20,
+            "description": "A comfortable cotton t-shirt for everyday wear.",
+            "image": "https://contents.mediadecathlon.com/p2301349/83b14838db03f875377e5f2efeb3e700/p2301349.jpg?format=auto&quality=70&f=650x0"
+        },
+        {
+            "id": 202,
+            "name": "Jeans",
+            "categoryId": 2,
+            "price": 40,
+            "description": "Classic denim jeans for a timeless look.",
+            "image": "https://assets.ajio.com/medias/sys_master/root/20221019/4ikf/634fd570aeb269659c4d8a57/-473Wx593H-441148958-darkblue-MODEL.jpg"
+        },
+        {
+            "id": 203,
+            "name": "Dress Shirt",
+            "categoryId": 2,
+            "price": 35,
+            "description": "Look sharp and stylish in this dress shirt.",
+            "image": "https://assets.ajio.com/medias/sys_master/root/20230307/1wh7/64070e55aeb26924e3acb98c/-473Wx593H-465870352-navy-MODEL.jpg"
+        },
+        {
+            "id": 204,
+            "name": "Sneakers",
+            "categoryId": 2,
+            "price": 50,
+            "description": "Comfortable sneakers for casual outings.",
+            "image": "https://rukminim2.flixcart.com/image/850/1000/xif0q/shoe/j/u/w/7-1522-multi-shozie-multicolor-original-imagegdaad9g8mvs-bb.jpeg?q=90&crop=false"
+        },
+        {
+            "id": 205,
+            "name": "Hoodie",
+            "categoryId": 2,
+            "price": 45,
+            "description": "Stay warm and cozy with this stylish hoodie.",
+            "image": "https://m.media-amazon.com/images/I/61WOhi0ycXL._AC_UY1100_.jpg"
+        },
+        {
+            "id": 301,
+            "name": "Coffee Maker",
+            "categoryId": 3,
+            "price": 80,
+            "description": "Brew delicious coffee at home with this coffee maker.",
+            "image": "https://rukminim2.flixcart.com/image/850/1000/xif0q/coffee-maker/7/z/2/-original-imaghkc9qyvdgqb7.jpeg?q=90&crop=false"
+        },
+        {
+            "id": 302,
+            "name": "Cookware Set",
+            "categoryId": 3,
+            "price": 130,
+            "description": "A complete set of cookware for your kitchen.",
+            "image": "https://m.media-amazon.com/images/I/61hkGebNGEL._AC_UF894,1000_QL80_.jpg"
+        },
+        {
+            "id": 303,
+            "name": "Blender",
+            "categoryId": 3,
+            "price": 70,
+            "description": "Blend your favorite fruits into delicious smoothies with this blender.",
+            "image": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/3cbba532-5f03-43af-9a8c-d29c8528933a._SL480_.png"
+        },
+        {
+            "id": 304,
+            "name": "Toaster",
+            "categoryId": 3,
+            "price": 40,
+            "description": "Make perfectly toasted bread with this toaster.",
+            "image": "https://m.media-amazon.com/images/I/41wlCsW7rNL._AC_UF1000,1000_QL80_.jpg"
+        },
+        {
+            "id": 305,
+            "name": "Electric Kettle",
+            "categoryId": 3,
+            "price": 25,
+            "description": "Boil water quickly and easily with this electric kettle.",
+            "image": "https://m.media-amazon.com/images/I/81mjmNl8Z0L._AC_UF350,350_QL80_.jpg"
+        },
+        {
+            "id": 401,
+            "name": "Backpack",
+            "categoryId": 4,
+            "price": 60,
+            "description": "A durable backpack for your daily commute or outdoor adventures.",
+            "image": "https://m.media-amazon.com/images/I/71Y1ru0ocfL._AC_UF1000,1000_QL80_.jpg"
+        },
+        {
+            "id": 402,
+            "name": "Suitcase",
+            "categoryId": 4,
+            "price": 100,
+            "description": "Travel in style with this spacious suitcase.",
+            "image": "https://m.media-amazon.com/images/I/61ARKCKehIL._AC_UY1100_.jpg"
+        },
+        {
+            "id": 403,
+            "name": "Travel Pillow",
+            "categoryId": 4,
+            "price": 20,
+            "description": "Rest comfortably during long journeys with this travel pillow.",
+            "image": "https://m.media-amazon.com/images/I/61TRY1MJB+L._AC_UF894,1000_QL80_.jpg"
+        },
+        {
+            "id": 404,
+            "name": "Luggage Scale",
+            "categoryId": 4,
+            "price": 15,
+            "description": "Avoid overweight baggage fees with this luggage scale.",
+            "image": "https://m.media-amazon.com/images/I/61bojiqNURL._AC_UF1000,1000_QL80_.jpg"
+        },
+        {
+            "id": 405,
+            "name": "Travel Adapter",
+            "categoryId": 4,
+            "price": 10,
+            "description": "Stay connected while traveling with this universal travel adapter.",
+            "image": "https://m.media-amazon.com/images/I/611RCy1XjsL._AC_UF1000,1000_QL80_.jpg"
+        }
+    ],
+    "reviews": [
+        {
+            "id": 1,
+            "rating": 3,
+            "comment": "test review",
+            "productId": 101
+        }
+    ]
+}
