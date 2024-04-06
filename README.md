@@ -40,7 +40,7 @@ npm install json-server
 ### Start the JSON Server with your db.json file:
 
 ```
-npm run serve-json` or `json-server --watch db.json
+npm run start` or `json-server --watch db.json
 ```
 
 <p>Now you can access your mock API endpoints.</p>
